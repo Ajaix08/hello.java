@@ -2,7 +2,7 @@
  * A simple Java program to practice with Jenkins.
  * This class prints a welcome message and a simple counter to the console.
  */
-public class HelloWorld {
+public class hello {
 
     /**
      * The main method is the entry point of the application.
